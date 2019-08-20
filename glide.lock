@@ -1,0 +1,34 @@
+hash: 56878985593d4247ae088e4a8856a21594e66f990afb49d4c867a76c2053ea52
+updated: 2019-08-20T06:13:52.734401255-04:00
+imports:
+- name: github.com/dgrijalva/jwt-go
+  version: 5e25c22bd5d6de03265bbe5462dcd162f85046f6
+- name: github.com/tidwall/btree
+  version: 9876f1454cf0993a53d74c27196993e345f50dd1
+- name: github.com/tidwall/buntdb
+  version: 6249481c29c2cd96f53b691b74ac1893f72774c2
+- name: github.com/tidwall/gjson
+  version: dea71f728d5e39c962ed78f3d818b7f1efe7b757
+- name: github.com/tidwall/grect
+  version: ba9a043346eba55344e40d66a5e74cfda3a9d293
+- name: github.com/tidwall/match
+  version: 33827db735fff6510490d69a8622612558a557ed
+- name: github.com/tidwall/pretty
+  version: 1166b9ac2b65e46a43d8618d30d1554f4652d49b
+- name: github.com/tidwall/rtree
+  version: 6cd427091e0e662cb4f8e2c9eb1a41e1c46ff0d3
+  subpackages:
+  - base
+- name: github.com/tidwall/tinyqueue
+  version: 1e39f55115634cad2c504631c8bfcc292f2c9c55
+- name: gopkg.in/oauth2.v3
+  version: 535666c25efd04f4d1e59a533585172cde15b3f4
+  subpackages:
+  - errors
+  - generates
+  - manage
+  - models
+  - server
+  - store
+  - utils/uuid
+testImports: []

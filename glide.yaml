@@ -1,0 +1,10 @@
+package: oauth2
+import:
+- package: gopkg.in/oauth2.v3
+  version: v3.10.1
+  subpackages:
+  - errors
+  - manage
+  - models
+  - server
+  - store
